@@ -1,0 +1,61 @@
+@charset "utf-8";
+
+body {
+    font-family: "Roboto Mono", monospace;
+    min-height: 400px;
+    background-image: url("https://venuxx.com/wp-content/uploads/2019/11/858a8-87950f_6d2e811a3dbf47968356c579e953d145mv2.png");
+    background-color: #00162b;
+    background-size: 70vh;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .page-title {
+    color: #00d0ff;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: #014a63;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+  
+  input {
+    margin: 12px;
+    padding: 6px;
+    border-radius: 5px;
+  }
+  
+  label {
+    color: white;
+  }
+  
+  button {
+    margin-top: 12px;
+    padding: 4px 8px;
+    border-radius: 10px;
+    background: #00d0ff;
+  }
+  
+  h2 {
+    color: #00d0ff;
+    font-size: 30px;
+  }
+  
