@@ -1,0 +1,33 @@
+@charset 'utf8';
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+*{font-family: 'Open Sans', sans-serif;}
+
+
+body{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #a4dcb9;
+
+
+}
+div{
+    background-color:  #5bcebf;
+    padding: 5%;
+    border-radius: 10px;
+}
+
+
+button{
+    margin-top: 15%;
+    border-style: none;
+    cursor: pointer;
+    font-size: large;
+    width: 30%;
+    height: 30px;
+    background-color: #fdf4b0;
+    border-radius: 10px;
+}

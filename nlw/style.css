@@ -89,7 +89,7 @@ section p {
 section ul {
     display: flex;
     flex-wrap: wrap;
-    /* quando as coisas estão dentro da caixa, essa propriedade faz os elemtnos irem descendo de acordo com o espaç disponivel */
+    /* quando as coisas estão dentro da caixa, essa propriedade faz os elementos irem descendo de acordo com o espaço disponivel */
     gap: 16px;
     margin-top: 24px;
 }
